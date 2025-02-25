@@ -54,7 +54,6 @@ The script downloads real estate data **for the date when it is run**.
 | Date       | City  | District | 1-Bedroom Price | 1-Bedroom Price/m² | 2-Bedroom Price | 2-Bedroom Price/m² | 3-Bedroom Price | 3-Bedroom Price/m² | Link                                                                                                                                                    |
 |------------|-------|----------|-----------------|--------------------|-----------------|--------------------|-----------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 25.02.2025 | София | Бъкстон  | 120,000         | 2,000              | 180,000         | 1,800              | 250,000         | 1,700              | [View](https://www.imot.bg//pcgi/imot.cgi?act=14&actions=2&pn=0&town=София&craion=Бъкстон&year=2025&date=25.2.2025&pt=1~2~3~~&nr=43~43~43~~&cr=7~7~7~~) |
-Each file is saved with the corresponding **current date** in its filename.
 
 ### **Saved file format**:
 ```
